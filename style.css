@@ -1,9 +1,5 @@
 body {
-    background-image: url("image/tavern.png");
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-
+    background-color: #1a120d;
     color: #e8d8b8;
     font-family: Georgia, serif;
     text-align: center;
@@ -22,5 +18,5 @@ div {
     margin: 40px auto;
     padding: 20px;
     max-width: 600px;
-    border: 2px solid #24292e;
+    border: 2px solid #8b6f47;
 }
