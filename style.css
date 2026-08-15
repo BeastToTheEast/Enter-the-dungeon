@@ -1,5 +1,9 @@
 body {
-    background-color: #1a120d;
+    background-image: url("webpage.png");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
     color: #e8d8b8;
     font-family: Georgia, serif;
     text-align: center;
